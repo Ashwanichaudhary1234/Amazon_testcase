@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="32" passed="31" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T10:53:53 IST" name="Default suite" finished-at="2023-05-17T10:56:21 IST" duration-ms="147759">
+    <groups>
+    </groups>
+    <test started-at="2023-05-17T10:53:53 IST" name="Default test" finished-at="2023-05-17T10:56:21 IST" duration-ms="147759">
+      <class name="amazon.amazon_Test.Testdata">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:48 IST" name="Launch" finished-at="2023-05-17T10:53:53 IST" duration-ms="5519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method is-config="true" signature="startTest()[pri:0, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:53 IST" name="startTest" finished-at="2023-05-17T10:53:53 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="accesibility()[pri:1, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:53 IST" name="accesibility" finished-at="2023-05-17T10:53:53 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accesibility -->
+        <test-method signature="logovisiblity()[pri:2, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:53 IST" name="logovisiblity" finished-at="2023-05-17T10:53:54 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logovisiblity -->
+        <test-method signature="Iconlocationvisiblity()[pri:3, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconlocationvisiblity" finished-at="2023-05-17T10:53:54 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconlocationvisiblity -->
+        <test-method signature="Iconsearchbox()[pri:4, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconsearchbox" finished-at="2023-05-17T10:53:54 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconsearchbox -->
+        <test-method signature="Iconsignin()[pri:5, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconsignin" finished-at="2023-05-17T10:53:54 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconsignin -->
+        <test-method signature="Iconmenu()[pri:6, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconmenu" finished-at="2023-05-17T10:53:54 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconmenu -->
+        <test-method signature="Iconminitv()[pri:7, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconminitv" finished-at="2023-05-17T10:53:54 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconminitv -->
+        <test-method signature="Iconsell()[pri:8, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconsell" finished-at="2023-05-17T10:53:54 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconsell -->
+        <test-method signature="Iconbestsell()[pri:9, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconbestsell" finished-at="2023-05-17T10:53:54 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconbestsell -->
+        <test-method signature="Iconmobiles()[pri:10, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="Iconmobiles" finished-at="2023-05-17T10:53:54 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconmobiles -->
+        <test-method signature="click()[pri:11, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:54 IST" name="click" finished-at="2023-05-17T10:53:59 IST" duration-ms="4623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method signature="Iconcart()[pri:12, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:53:59 IST" name="Iconcart" finished-at="2023-05-17T10:54:04 IST" duration-ms="4732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconcart -->
+        <test-method signature="Iconmenu1()[pri:13, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:54:04 IST" name="Iconmenu1" finished-at="2023-05-17T10:54:12 IST" duration-ms="8268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconmenu1 -->
+        <test-method signature="Iconminitv1()[pri:14, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:54:12 IST" name="Iconminitv1" finished-at="2023-05-17T10:54:21 IST" duration-ms="8805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconminitv1 -->
+        <test-method signature="Iconsell1()[pri:15, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:54:21 IST" name="Iconsell1" finished-at="2023-05-17T10:54:31 IST" duration-ms="10281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconsell1 -->
+        <test-method signature="Iconmobiles1()[pri:16, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:54:31 IST" name="Iconmobiles1" finished-at="2023-05-17T10:55:36 IST" duration-ms="65439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconmobiles1 -->
+        <test-method signature="Click()[pri:17, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:36 IST" name="Click" finished-at="2023-05-17T10:55:37 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click -->
+        <test-method signature="Clicksubmit()[pri:18, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:37 IST" name="Clicksubmit" finished-at="2023-05-17T10:55:39 IST" duration-ms="1979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clicksubmit -->
+        <test-method signature="Iphone()[pri:19, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:39 IST" name="Iphone" finished-at="2023-05-17T10:55:49 IST" duration-ms="10036" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search"]/div[1]/div[1]/div/span[1]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[1]/h2/a/span"}
+  (Session info: chrome=113.0.5672.93)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0f076fcbc1982e26f403aad735ce0297, findElement {using=xpath, value=//*[@id="search"]/div[1]/div[1]/div/span[1]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[1]/h2/a/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\ACHAUD~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60023}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60023/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f076fcbc1982e26f403aad735ce0297]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search"]/div[1]/div[1]/div/span[1]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[1]/h2/a/span"}
+  (Session info: chrome=113.0.5672.93)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0f076fcbc1982e26f403aad735ce0297, findElement {using=xpath, value=//*[@id="search"]/div[1]/div[1]/div/span[1]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/div[1]/h2/a/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\ACHAUD~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60023}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60023/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f076fcbc1982e26f403aad735ce0297
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy18.click(Unknown Source)
+at amazon.amazon_Test.Testdata.Iphone(Testdata.java:369)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iphone -->
+        <test-method signature="cart()[pri:20, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:49 IST" name="cart" finished-at="2023-05-17T10:55:51 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="returnorder()[pri:21, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:51 IST" name="returnorder" finished-at="2023-05-17T10:55:53 IST" duration-ms="2191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnorder -->
+        <test-method signature="down()[pri:24, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:53 IST" name="down" finished-at="2023-05-17T10:55:54 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+        <test-method signature="backtoup()[pri:25, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:54 IST" name="backtoup" finished-at="2023-05-17T10:55:54 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backtoup -->
+        <test-method signature="Iconsignin1()[pri:26, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:54 IST" name="Iconsignin1" finished-at="2023-05-17T10:55:59 IST" duration-ms="4826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iconsignin1 -->
+        <test-method signature="Continue()[pri:27, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:55:59 IST" name="Continue" finished-at="2023-05-17T10:56:03 IST" duration-ms="4177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Continue -->
+        <test-method signature="Email()[pri:28, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:03 IST" name="Email" finished-at="2023-05-17T10:56:04 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Email -->
+        <test-method signature="Continue1()[pri:29, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:04 IST" name="Continue1" finished-at="2023-05-17T10:56:05 IST" duration-ms="1434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Continue1 -->
+        <test-method signature="signinbutton()[pri:30, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:05 IST" name="signinbutton" finished-at="2023-05-17T10:56:06 IST" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinbutton -->
+        <test-method signature="password()[pri:31, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:06 IST" name="password" finished-at="2023-05-17T10:56:10 IST" duration-ms="4521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="signinbutton1()[pri:32, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:10 IST" name="signinbutton1" finished-at="2023-05-17T10:56:12 IST" duration-ms="2224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinbutton1 -->
+        <test-method signature="forgotpassword()[pri:33, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:12 IST" name="forgotpassword" finished-at="2023-05-17T10:56:15 IST" duration-ms="2425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method signature="Continue2()[pri:34, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:15 IST" name="Continue2" finished-at="2023-05-17T10:56:21 IST" duration-ms="5880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Continue2 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:21 IST" name="endTest" finished-at="2023-05-17T10:56:21 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:amazon.amazon_Test.Testdata@3527942a]" started-at="2023-05-17T10:56:21 IST" name="stop" finished-at="2023-05-17T10:56:21 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- amazon.amazon_Test.Testdata -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
